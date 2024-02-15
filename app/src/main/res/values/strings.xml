@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="textview">Hola Amigos</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="lovers_of_moon_selenophile">Lovers of moon-Selenophile</string>
+    <string name="shines_of_borrowed_light_yet_glow_as_if_there_is_nothing_brighter">Shines of borrowed light,yet glow as if there is nothing brighter</string>
+    <string name="just_a_large_rock_yet_so_precious_so_adored">Just a large rock, yet so precious, so adored</string>
+    <string name="a_form_of_beauty_for_an_entire_planet">A form of beauty for an entire planet</string>
+</resources>
